@@ -4,6 +4,9 @@
 /MotorWorld_CarFactory/
 /OldVersions/
 /RepoData/
+/404.html
+/404.jpeg
+/404.md
 /.all-contributorsrc
 /.all-contributorsrc.json
 /.editorconfig
@@ -39,6 +42,7 @@
 /ROOTFILES.base
 /SECURITY.md
 /SponsorButton.png
+/_config.yml
 /desktop.ini
 /makefile.mk
 /pull_request_template.md 
