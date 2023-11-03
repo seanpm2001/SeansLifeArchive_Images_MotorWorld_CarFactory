@@ -1,4 +1,5 @@
 /.github/
+/.gitlab/
 /Branches/
 /Docs/
 /MotorWorld_CarFactory/
@@ -41,6 +42,7 @@
 /PROJECT_LANG_2.asm
 /README.md
 /ROOTFILES.base
+/SeansLifeArchive_Images_MotorWorld_CarFactory_REPOLIST.urll
 /SECURITY.md
 /SponsorButton.png
 /_config.yml
