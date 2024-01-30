@@ -1,7 +1,7 @@
 ////URLL-version=3;
 //// SeansLifeArchive_Images_MotorWorld_CarFactory_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
-//// A list of all Motor WOrld: Car Factory image repositories repositories by @seanpm2001
+//// A list of all Motor World: Car Factory image repositories repositories by @seanpm2001
 //// A subgroup of SeansLifeArchive_Images and also SeansLifeArchive
 //// Old file:
 /REPOLIST.urll
@@ -14,19 +14,25 @@ https://github.com/seanpm2001/SeansLifeArchive_Images_MotorWorld_CarFactory/
 
 //// ----------------------------------------------------- \\\\
 
-//// Monthly repositories (5)
+//// Monthly repositories (6)
+
+//// 2023 (4):
 
 https://github.com/seanpm2001/SeansLifeArchive_Images_MotorWorld_CarFactory_Y2023_V1/
 https://github.com/seanpm2001/SeansLifeArchive_Images_MotorWorld_CarFactory_Y2023_V2/
 https://github.com/seanpm2001/SeansLifeArchive_Images_MotorWorld_CarFactory_Y2023_V3/
 https://github.com/seanpm2001/SeansLifeArchive_Images_MotorWorld_CarFactory_Y2023_V4/
+
+//// 2024 (2):
+
 https://github.com/seanpm2001/SeansLifeArchive_Images_MotorWorld_CarFactory_Y2024_V1/
+https://github.com/seanpm2001/SeansLifeArchive_Images_MotorWorld_CarFactory_Y2024_V2/
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 6
+//// Repo count: 7
 
-//// 1+5+6
+//// 1+6+7
 
 //// ----------------------------------------------------- \\\\
 
@@ -39,16 +45,16 @@ https://github.com/seanpm2001/Git-Image/
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 10
+//// Total repo count: 11
 
-//// 6+4=10
+//// 7+4=11
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 2 (2023, Friday, Decemebr 29th at 11:35 pm PST)
-//// Line count (including blank lines and compiler line): 56
+//// File version: 3 (2024, Monday, January 29th at 05:06 pm PST)
+//// Line count (including blank lines and compiler line): 62
 
 //// ----------------------------------------------------- \\\\
 
