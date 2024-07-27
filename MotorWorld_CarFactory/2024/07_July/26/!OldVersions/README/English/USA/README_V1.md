@@ -7,12 +7,16 @@ _Session data for this day is available in a separate repository._
 
 **Jump to the specific entry:**
 
-- [:octocat: `Click/tap here to go the 2024 July 26th entry`](https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTower_Y2024/tree/SeansLifeArchive_Images_TinyTower_Y2024_Main-dev/2024/07_July/26/)
+- [:octocat: `Click/tap here to go the 2024 July 26th entry`](https://github.com/seanpm2001/SeansLifeArchive_Images_MotorWorld_CarFactory_Y2024_V7/tree/SeansLifeArchive_Images_MotorWorld_CarFactory_Y2024_V7_Main-dev/2024/07_July/26/)
+
+**Go to the monthly compilation repository:**
+
+- [:octocat: `Click/tap here to go the 2024 July image repository`](https://github.com/seanpm2001/SeansLifeArchive_Images_MotorWorld_CarFactory_Y2024_V7/)
 
 ***
 
 # File info
 
-**File version:** `1 (2024, Friday, July 26th at 06:57 pm PST)`
+**File version:** `1 (2024, Friday, July 26th at 06:59 pm PST)`
 
 ***
